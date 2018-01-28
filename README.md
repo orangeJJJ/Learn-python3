@@ -1,2 +1,2 @@
 # Learn-python3
-Learn-python3 practice code
+Learn-python 3 practice code
