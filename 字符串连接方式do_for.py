@@ -8,8 +8,7 @@
 
 L=['bart','Lisa','Adam']
 for name in L:
-    问候='hello,'+name+'!'
-    print(问候)
+    print('hello,'+name+'!')
 for name in L:
     print('hello,%s!'%name)
 for name in L:
