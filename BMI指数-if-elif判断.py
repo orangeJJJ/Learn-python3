@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#注意：
+#float() 函数用于将整数和字符串转换成浮点数。
+
 s=input('please enter your height (m.):')
 z=input('please enter your weight (kg.):')
 height=float(s)
