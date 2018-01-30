@@ -19,3 +19,4 @@ a=float(input('请输入一元二次方程中的a:'))
 b=float(input('请输入一元二次方程中的b:'))
 c=float(input('请输入一元二次方程中的c:'))
 print(quadratic(a,b,c))
+
