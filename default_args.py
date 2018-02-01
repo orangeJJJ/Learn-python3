@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def add_end (L=[]) :
     L.append ('END')
     print (L)
